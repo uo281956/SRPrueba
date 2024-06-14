@@ -28,7 +28,12 @@ undefined
       }
 
       mp() {
-        console.log(document.getElementById('ta').value);
+        jsPython()
+          .evaluate(document.getElementById('ta').value)
+          .then(
+              r => console.log("Result => ", r),
+              e => console.log("Error => ", error)
+          )
       }
     }
 
