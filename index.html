@@ -28,12 +28,13 @@ undefined
       }
 
       mp() {
-        console.log("asd");
+        console.log(document.getElementById('ta').value);
       }
     }
 
     var p = new Prueba();
   </script>
-  <textarea onclick=""></textarea>
+  <textarea id="ta"></textarea>
+  <button onclick="p.mp()">Comprobar</button>
 </body>
 </html>
