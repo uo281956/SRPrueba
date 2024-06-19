@@ -1,0 +1,176 @@
+{
+  "pruebas": [
+    {
+        "lenguaje": "Python",
+        "contenido": "Conceptos",
+        "base": 1,
+        "enunciado": "¿Qué se tiene que escribir al final de una línea de código en Python?",
+        "respuesta": "Salto de línea",
+        "opciones": [
+          {
+            "valor": ";"
+          },
+          {
+            "valor": "."
+          },
+          {
+            "valor": "Doble espacio"
+          },
+          {
+            "valor": "Salto de línea"
+          }
+        ]
+    },
+    {
+      "lenguaje": "Python",
+      "contenido": "Conceptos",
+      "base": 1,
+      "enunciado": "¿Cuál de estos tipos de datos es mutable?",
+      "respuesta": "Ninguna de las otras respuestas",
+      "opciones": [
+        {
+          "valor": "Bool"
+        },
+        {
+          "valor": "Decimal"
+        },
+        {
+          "valor": "Float"
+        },
+        {
+          "valor": "Ninguna de las otras respuestas"
+        }
+      ]
+    },
+    {
+      "lenguaje": "Python",
+      "contenido": "Conceptos",
+      "base": 1,
+      "enunciado": "¿Qué instrucción es necesaria para obtener los siguientes elementos: [1,5,10,15] en la lista lst_test_b partiendo del siguiente código: lst_test_b = [1,10,15]?",
+      "respuesta": "lst_test_b.insert(1,5)",
+      "opciones": [
+        {
+          "valor": "lst_test_b.insert(1,5)"
+        },
+        {
+          "valor": "lst_test_b.extend(5,1)"
+        },
+        {
+          "valor": "lst_test_b.append(2,5)"
+        },
+        {
+          "valor": "lst_test_b.insert(5,1)"
+        }
+      ]
+    },
+    {
+      "lenguaje": "Python",
+      "contenido": "Conceptos",
+      "base": 2,
+      "enunciado": "Para realizar condicionales en Python se utiliza las palabras clave __ y else.",
+      "respuesta": "if"
+    },
+    {
+      "lenguaje": "Python",
+      "contenido": "Conceptos",
+      "base": 2,
+      "enunciado": "Para realizar elevar un número a otro matemáticamente se tiene que utilizar el operador __.",
+      "respuesta": "**"
+    },
+    {
+      "lenguaje": "Python",
+      "contenido": "Conceptos",
+      "base": 2,
+      "enunciado": " Si se necesita iterar sobre una secuencia de números se debería utilizar la función integrada __.",
+      "respuesta": "range()"
+    },
+    {
+      "lenguaje": "Python",
+      "contenido": "Conceptos",
+      "base": 3,
+      "enunciado": "Selecciona el icono correcto de Python.",
+      "respuesta": "c",
+      "opciones": [
+        {
+          "icono": "js.png",
+          "valor": "a"
+        },
+        {
+          "icono": "html.png",
+          "valor": "b"
+        },
+        {
+          "icono": "python.png",
+          "valor": "c"
+        },
+        {
+          "icono": "java.png",
+          "valor": "d"
+        }
+      ]
+    },
+    {
+      "lenguaje": "Python",
+      "contenido": "Basica",
+      "base": 0,
+      "enunciado": "Escribir un programa que muestre por consola: ¡Ábrete Sésamo!",
+      "respuesta": "¡Ábrete Sésamo!"
+    },
+    {
+      "lenguaje": "Python",
+      "contenido": "Basica",
+      "base": 0,
+      "enunciado": "Escribe un programa que muestre por consola esta lista de temáticas de la scape room: fantasmas, templo perdido, asesinato y robo a una joyería. Realizar utilizando arrays.",
+      "respuesta": "fantasmas,templo perdido,asesinato,robo a una joyería"
+    },
+    {
+      "lenguaje": "Python",
+      "contenido": "Basica",
+      "base": 0,
+      "enunciado": "Escribir un programa para la scape room. Tiene salas para todas las edades y quiere calcular de forma automática el precio que debe cobrar a sus clientes por entrar. El programa debe preguntar al usuario la edad del cliente y mostrar el precio de la entrada. Si el cliente es menor de 4 años puede entrar gratis, si tiene entre 4 y 18 años debe pagar 5€ y si es mayor de 18 años, 10€. Calcula el coste que tendría una sala para tres personas de 3, 12 y 37 años juntos.",
+      "respuesta": "15"
+    },
+    {
+      "lenguaje": "Python",
+      "contenido": "Algoritmos",
+      "base": 0,
+      "enunciado": "Escribir un programa que muestre por pantalla la cuenta desde cero hasta 6 separado por comas.",
+      "respuesta": "1,2,3,4,5,6"
+    },
+    {
+      "lenguaje": "Python",
+      "contenido": "Algoritmos",
+      "base": 0,
+      "enunciado": "Escribir un programa que pida al usuario un número entero y muestre por pantalla un triángulo rectángulo como el siguiente: \n*\n**\n***\n****",
+      "respuesta": "*\n**\n***\n****"
+    },
+    {
+      "lenguaje": "Python",
+      "contenido": "Algoritmos",
+      "base": 0,
+      "enunciado": "Escribir un programa que al pasar un número entero positivo muestre por pantalla true/false dependiendo de si es un número primo o no. Probar con el número 13.",
+      "respuesta": "true"
+    },
+    {
+      "lenguaje": "Python",
+      "contenido": "Algoritmos",
+      "base": 0,
+      "enunciado": "Escribir un programa que almacene en una lista los siguientes números 1,13,5,23,5 y muestre por pantalla el menor y el mayor de ellos separados por una coma.",
+      "respuesta": "1,23"
+    },
+    {
+      "lenguaje": "Python",
+      "contenido": "Algoritmos",
+      "base": 0,
+      "enunciado": "Ordena la siguiente secuencia de números (2,5,7,21,4,1,5) y obtener la suma de los 3 primeros números ordenados de menor a mayor.",
+      "respuesta": "7"
+    },
+    {
+      "lenguaje": "Python",
+      "contenido": "Algoritmos",
+      "base": 0,
+      "enunciado": "Ordena la siguiente secuencia de números (14,24,3,5,11,5), elimina al mayor y al menor y obtén la suma del resto números.",
+      "respuesta": "35"
+    }
+  ]
+}
